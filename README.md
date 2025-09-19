@@ -36,15 +36,6 @@ A full-featured **Restaurant POS System** built using the **MERN Stack** to stre
 ---
 <br>
 
-## 📺 **YouTube Playlist**
-
-🎬 Follow the complete tutorial series on building this Restaurant POS System on YouTube:  
-👉 [Watch the Playlist](https://www.youtube.com/playlist?list=PL9OdiypqS7Nk0DHnSNFIi8RgEFJCIWB6X)  
-
-## 📁 **Assets**
-
-- 📦 **Project Assets:** [Google Drive](https://drive.google.com/drive/folders/193N-F1jpzyfPCRCLc9wCyaxjYu2K6PC_)
-
 ---
 
 ## 📋 **Flow Chart for Project Structure**
